@@ -154,7 +154,12 @@ body {
     align-items: center;
     color: hsl(0, 0%, 100%);
     background-color: hsl(224, 30%, 27%);
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-radius: 30px;
-    margin-top: 50px;
+    margin-top: 40px;
+    transition: 0.3s ease-in-out;
+}
+
+.continue:hover{
+    background: rgb(46, 43, 233);
 }
